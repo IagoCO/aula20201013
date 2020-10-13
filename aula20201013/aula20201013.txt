@@ -1,0 +1,1 @@
+Os values objects que identifiquei foram: nome, email, código, telefone, desconto.
